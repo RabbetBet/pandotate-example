@@ -2,7 +2,7 @@
 
 # Pandotate Flask Example App
 
-A minimal Flask proxy that routes AI inference requests through Pandotate, handling model-based routing, cost optimization, retries, timeouts, and response normalization.
+A minimal Flask proxy that routes AI inference requests through Pandotate(www.pandotate.com), handling model-based routing, cost optimization, retries, timeouts, and response normalization.
 
 ## Features
 
