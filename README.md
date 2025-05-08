@@ -1,3 +1,5 @@
+![Try Pandotate in 5 minutes](https://img.shields.io/badge/Try%20Pandotate-5%20mins-blue.svg)
+
 # Pandotate Flask Example App
 
 A minimal Flask proxy that routes AI inference requests through Pandotate, handling model-based routing, cost optimization, retries, timeouts, and response normalization.
